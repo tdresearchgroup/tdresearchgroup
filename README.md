@@ -1,5 +1,5 @@
 ### Repository of the Software Engineering Analytics Research Group (SEARch) led by Dr. Zadia Codabux (Unievrsity of Saskatchewan, Canada).
-### The software and repositories are solely for reseach purposes. Therefore, credit appropriately. 
+### The software and repositories are solely for research purposes. Therefore, credit appropriately. 
 
 <!--
 **tdresearchgroup/tdresearchgroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
