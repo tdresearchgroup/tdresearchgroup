@@ -5,7 +5,7 @@
 
 **Zadia Codabux**, Melina Vidoni, Fatemeh Hendijani Fard “Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study,” Mining Software Repositories Conference (MSR), 2021
 
-Kazizakia Sultana, **Zadia Codabux**, Byron J. Williams, “Examining the Relationship of Code and Architectural Smells with Software Vulnerabilities,” Asia-Pacific Software Engineering Conference (APSEC), 2020 [Best Paper Research Track – First Place]
+Kazizakia Sultana, **Zadia Codabux**, Byron J. Williams, “Examining the Relationship of Code and Architectural Smells with Software Vulnerabilities,” Asia-Pacific Software Engineering Conference (APSEC), 2020 **[Best Paper Research Track – First Place]**
 
 **Zadia Codabux**, Christopher Dutchyn, “Profiling Developers Through the Lens of Technical Debt,” International Symposium on Empirical Software Engineering at Empirical Software Engineering and Measurement (ESEM), 2020
 
