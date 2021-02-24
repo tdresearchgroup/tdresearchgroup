@@ -1,7 +1,7 @@
 ### Repository of the Software Engineering Analytics Research Group (SEARch) led by Dr. Zadia Codabux (University of Saskatchewan, Canada).
-### The software and repositories are solely for research purposes. Therefore, credit appropriately. 
+#### Note: The software and data are solely for research purposes. Therefore, credit appropriately. 
 
-#### Recent Publications
+### Recent Publications
 
 **Zadia Codabux**, Melina Vidoni, Fatemeh Hendijani Fard “Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study,” Mining Software Repositories Conference (MSR), 2021
 
