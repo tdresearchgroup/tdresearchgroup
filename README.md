@@ -5,11 +5,11 @@
 
 Giovanni George, Jeremiah Kotey, Megan Ripley, Kazi Zakia Sultana, **Zadia Codabux**, "A Preliminary Study on Common Programming Mistakes that Lead to Buffer Overflow Vulnerability," Security, Trust, and Privacy for Software Applications (STPSA), in conjunction with Conference on Computers, Software and Applications (COMPSAC), 2021
 
-**Zadia Codabux**, Melina Vidoni, Fatemeh Hendijani Fard “Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study,” Mining Software Repositories Conference (MSR), 2021
+**Zadia Codabux**, Melina Vidoni, Fatemeh Hendijani Fard “Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study,” Mining Software Repositories Conference (MSR), 2021  [Replication Package](https://zenodo.org/record/4589573).
 
-Kazizakia Sultana, **Zadia Codabux**, Byron J. Williams, “Examining the Relationship of Code and Architectural Smells with Software Vulnerabilities,” Asia-Pacific Software Engineering Conference (APSEC), 2020 **[Best Paper Research Track – First Place]**
+Kazizakia Sultana, **Zadia Codabux**, Byron J. Williams, “Examining the Relationship of Code and Architectural Smells with Software Vulnerabilities,” Asia-Pacific Software Engineering Conference (APSEC), 2020 **[Best Paper Research Track – First Place]** [Replication Package](https://github.com/tdresearchgroup/APSEC2020_ReplicationPackage).
 
-**Zadia Codabux**, Christopher Dutchyn, “Profiling Developers Through the Lens of Technical Debt,” International Symposium on Empirical Software Engineering at Empirical Software Engineering and Measurement (ESEM), 2020
+**Zadia Codabux**, Christopher Dutchyn, “Profiling Developers Through the Lens of Technical Debt,” International Symposium on Empirical Software Engineering at Empirical Software Engineering and Measurement (ESEM), 2020 [Replication Package](https://github.com/tdresearchgroup/ESEM2020_ReplicationPackage).
 
 
 
